@@ -1,1 +1,1 @@
-Selenium java framework 
+Selenium Java Framework
